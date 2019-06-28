@@ -1,9 +1,6 @@
 # WatershedAnalysis
 Watershed analysis algorithm implementation in CUDA and OpenACC
 
-# Prelazak na CudaDocker direktorijum
-
-cd CUDA_Docker/
 
 
 # Build docker file
