@@ -1,0 +1,2 @@
+OUTPUT_FORMAT(elf64-x86-64)
+GROUP ( libcublas.so libcusparse.so libcurand.so ./libcudaforwrapblas.so )

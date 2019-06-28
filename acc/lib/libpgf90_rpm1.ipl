@@ -1,0 +1,69 @@
+!<arch>
+init_rpm1.ipo/  1555614904  921   1016  100664  378       `
+F../src/libpgf90_rpm1.c
+V17 0 19.4
+FUNC . __hpf_abortx
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_barrier
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_begpar
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_endpar
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . pghpf_barrier
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . pghpf_tid
+language c
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+xfer_rpm1.ipo/  1555614904  921   1016  100664  264       `
+F../src/libpgf90_rpm1.c
+V17 0 19.4
+FUNC . __hpf_doit
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_ebcopys
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_erecv
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_esend
+language c
+opt
+size 1
+state
+ENDFUNC
+ENDFILE

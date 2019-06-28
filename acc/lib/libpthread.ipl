@@ -1,0 +1,981 @@
+!<arch>
+//                                              40        `
+setconcurrency.ipo/
+setschedparam.ipo/
+
+atfork.ipo/     1555614775  921   1016  100664  209       `
+F../src/libpthread.c
+V17 0 19.4
+FUNC FiPFvv_PFvv_PFvv__ pthread_atfork, __prepare, __parent, __child
+language c
+sptr 1693
+vd PFvv_ __prepare
+vd PFvv_ __parent
+vd PFvv_ __child
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+
+attr.ipo/       1555614775  921   1016  100664  2967      `
+F../src/libpthread.c
+V17 0 19.4
+FUNC FiPDU917_ pthread_attr_init, __attr
+language c
+sptr 1420
+vd PDU917 __attr
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU917_ pthread_attr_destroy, __attr
+language c
+sptr 1422
+vd PDU917 __attr
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU917i_ pthread_attr_setdetachstate, __attr, __detachstate
+language c
+sptr 1427
+vd PDU917 __attr
+vd i __detachstate
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPCDU917Pi_ pthread_attr_getdetachstate, __attr, __detachstate
+language c
+sptr 1424
+vd PCDU917 __attr
+vd Pi __detachstate
+opt
+size 1
+state
+ENDFUNC
+FUNC FiEPDU917EPCDS121_ pthread_attr_setschedparam, __attr, __param
+language c
+sptr 1439
+vd EPDU917 __attr
+vd EPCDS121 __param
+opt
+size 1
+state
+ENDFUNC
+DS121,4,3=i
+FUNC FiEPCDU917EPDS121_ pthread_attr_getschedparam, __attr, __param
+language c
+sptr 1436
+vd EPCDU917 __attr
+vd EPDS121 __param
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU917i_ pthread_attr_setschedpolicy, __attr, __policy
+language c
+sptr 1445
+vd PDU917 __attr
+vd i __policy
+opt
+size 1
+state
+ENDFUNC
+FUNC FiEPCDU917EPi_ pthread_attr_getschedpolicy, __attr, __policy
+language c
+sptr 1442
+vd EPCDU917 __attr
+vd EPi __policy
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU917i_ pthread_attr_setinheritsched, __attr, __inherit
+language c
+sptr 1451
+vd PDU917 __attr
+vd i __inherit
+opt
+size 1
+state
+ENDFUNC
+FUNC FiEPCDU917EPi_ pthread_attr_getinheritsched, __attr, __inherit
+language c
+sptr 1448
+vd EPCDU917 __attr
+vd EPi __inherit
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU917i_ pthread_attr_setscope, __attr, __scope
+language c
+sptr 1457
+vd PDU917 __attr
+vd i __scope
+opt
+size 1
+state
+ENDFUNC
+FUNC FiEPCDU917EPi_ pthread_attr_getscope, __attr, __scope
+language c
+sptr 1454
+vd EPCDU917 __attr
+vd EPi __scope
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU917Ul_ pthread_attr_setguardsize, __attr, __guardsize
+language c
+sptr 1433
+vd PDU917 __attr
+vd Ul __guardsize
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPCDU917PUl_ pthread_attr_getguardsize, __attr, __guardsize
+language c
+sptr 1430
+vd PCDU917 __attr
+vd PUl __guardsize
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU917Pv_ pthread_attr_setstackaddr, __attr, __stackaddr
+language c
+sptr 1463
+vd PDU917 __attr
+vd Pv __stackaddr
+opt
+size 1
+state
+ENDFUNC
+FUNC FiEPCDU917EPPv_ pthread_attr_getstackaddr, __attr, __stackaddr
+language c
+sptr 1460
+vd EPCDU917 __attr
+vd EPPv __stackaddr
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU917PvUl_ pthread_attr_setstack, __attr, __stackaddr, __stacksize
+language c
+sptr 1476
+vd PDU917 __attr
+vd Pv __stackaddr
+vd Ul __stacksize
+opt
+size 1
+state
+ENDFUNC
+FUNC FiEPCDU917EPPvEPUl_ pthread_attr_getstack, __attr, __stackaddr, __stacksize
+language c
+sptr 1472
+vd EPCDU917 __attr
+vd EPPv __stackaddr
+vd EPUl __stacksize
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU917Ul_ pthread_attr_setstacksize, __attr, __stacksize
+language c
+sptr 1469
+vd PDU917 __attr
+vd Ul __stacksize
+opt
+size 1
+state
+ENDFUNC
+FUNC FiEPCDU917EPUl_ pthread_attr_getstacksize, __attr, __stacksize
+language c
+sptr 1466
+vd EPCDU917 __attr
+vd EPUl __stacksize
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+
+barrier.ipo/    1555614775  921   1016  100664  779       `
+F../src/libpthread.c
+V17 0 19.4
+FUNC FiEPDU1002EPCDU1010Ui_ pthread_barrier_init, __barrier, __attr, __count
+language c
+sptr 1662
+vd EPDU1002 __barrier
+vd EPCDU1010 __attr
+vd Ui __count
+opt
+size 1
+state
+ENDFUNC
+DU1002,32,7=A32Scl
+DU1010,4,3=A4Sci
+FUNC FiPDU1002_ pthread_barrier_destroy, __barrier
+language c
+sptr 1666
+vd PDU1002 __barrier
+opt
+size 1
+state
+ENDFUNC
+FUNC . pthread_barrier_attr_init
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . pthread_barrier_attr_destroy
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . pthread_barrier_attr_getpshared
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . pthread_barrier_attr_setpshared
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU1002_ pthread_barrier_wait, __barrier
+language c
+sptr 1668
+vd PDU1002 __barrier
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+
+cancel.ipo/     1555614775  921   1016  100664  481       `
+F../src/libpthread.c
+V17 0 19.4
+FUNC FiiPi_ pthread_setcancelstate, __state, __oldstate
+language c
+sptr 1494
+vd i __state
+vd Pi __oldstate
+opt
+size 1
+state
+ENDFUNC
+FUNC FiiPi_ pthread_setcanceltype, __type, __oldtype
+language c
+sptr 1497
+vd i __type
+vd Pi __oldtype
+opt
+size 1
+state
+ENDFUNC
+FUNC FiUl_ pthread_cancel, __th
+language c
+sptr 1500
+vd Ul __th
+opt
+size 1
+state
+ENDFUNC
+FUNC Fvv_ pthread_testcancel, %ARG0
+language c
+sptr 1502
+vd v %ARG0
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+
+cleanup.ipo/    1555614775  921   1016  100664  310       `
+F../src/libpthread.c
+V17 0 19.4
+FUNC . _pthread_cleanup_push
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . pthread_cleanup_push
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . _pthread_cleanup_push_defer
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . pthread_cleanup_push_defer
+language c
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+cleanuppop.ipo/ 1555614775  921   1016  100664  310       `
+F../src/libpthread.c
+V17 0 19.4
+FUNC . pthread_cleanup_pop
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . _pthread_cleanup_pop
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . pthread_cleanup_pop_restore
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . _pthread_cleanup_pop_restore
+language c
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+clock.ipo/      1555614775  921   1016  100664  181       `
+F../src/libpthread.c
+V17 0 19.4
+FUNC FiUlPi_ pthread_getcpuclockid, __thread_id, __clock_id
+language c
+sptr 1690
+vd Ul __thread_id
+vd Pi __clock_id
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+
+cond.ipo/       1555614775  921   1016  100664  1416      `
+F../src/libpthread.c
+V17 0 19.4
+FUNC FiEPDU955EPCDU970_ pthread_cond_init, __cond, __cond_attr
+language c
+sptr 1619
+vd EPDU955 __cond
+vd EPCDU970 __cond_attr
+opt
+size 1
+state
+ENDFUNC
+DU955,48,7=DS960A48ScL
+DS960,48,7=iUiULULULPvUiUi
+DU970,4,3=A4Sci
+FUNC FiPDU955_ pthread_cond_destroy, __cond
+language c
+sptr 1622
+vd PDU955 __cond
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU955_ pthread_cond_signal, __cond
+language c
+sptr 1624
+vd PDU955 __cond
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU955_ pthread_cond_broadcast, __cond
+language c
+sptr 1626
+vd PDU955 __cond
+opt
+size 1
+state
+ENDFUNC
+FUNC FiEPDU955EPDU934_ pthread_cond_wait, __cond, __mutex
+language c
+sptr 1628
+vd EPDU955 __cond
+vd EPDU934 __mutex
+opt
+size 1
+state
+ENDFUNC
+FUNC FiEPDU955EPDU934EPCDS116_ pthread_cond_timedwait, __cond, __mutex, __abstime
+language c
+sptr 1631
+vd EPDU955 __cond
+vd EPDU934 __mutex
+vd EPCDS116 __abstime
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU970_ pthread_condattr_init, __attr
+language c
+sptr 1635
+vd PDU970 __attr
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU970_ pthread_condattr_destroy, __attr
+language c
+sptr 1637
+vd PDU970 __attr
+opt
+size 1
+state
+ENDFUNC
+FUNC FiEPCDU970EPi_ pthread_condattr_getpshared, __attr, __pshared
+language c
+sptr 1639
+vd EPCDU970 __attr
+vd EPi __pshared
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU970i_ pthread_condattr_setpshared, __attr, __pshared
+language c
+sptr 1642
+vd PDU970 __attr
+vd i __pshared
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+create.ipo/     1555614775  921   1016  100664  256       `
+F../src/libpthread.c
+V17 0 19.4
+FUNC FiEPUlEPCDU917PFPvPv_EPv_ pthread_create, __newthread, __attr, __start_routine, __arg
+language c
+sptr 1403
+vd EPUl __newthread
+vd EPCDU917 __attr
+vd PFPvPv_ __start_routine
+vd EPv __arg
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+detach.ipo/     1555614775  921   1016  100664  129       `
+F../src/libpthread.c
+V17 0 19.4
+FUNC FiUl_ pthread_detach, __th
+language c
+sptr 1414
+vd Ul __th
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+
+equal.ipo/      1555614775  921   1016  100664  167       `
+F../src/libpthread.c
+V17 0 19.4
+FUNC FiUlUl_ pthread_equal, __thread1, __thread2
+language c
+sptr 1417
+vd Ul __thread1
+vd Ul __thread2
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+
+exit.ipo/       1555614775  921   1016  100664  135       `
+F../src/libpthread.c
+V17 0 19.4
+FUNC FvPv_ pthread_exit, __retval
+language c
+sptr 1408
+vd Pv __retval
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+
+getattr_np.ipo/ 1555614775  921   1016  100664  102       `
+F../src/libpthread.c
+V17 0 19.4
+FUNC . pthread_getattr_np
+language c
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+join.ipo/       1555614775  921   1016  100664  170       `
+F../src/libpthread.c
+V17 0 19.4
+FUNC FiUlPPv_ pthread_join, __th, __thread_return
+language c
+sptr 1411
+vd Ul __th
+vd PPv __thread_return
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+key.ipo/        1555614775  921   1016  100664  283       `
+F../src/libpthread.c
+V17 0 19.4
+FUNC FiPUiPFvPv__ pthread_key_create, __key, __destr_function
+language c
+sptr 1680
+vd PUi __key
+vd PFvPv_ __destr_function
+opt
+size 1
+state
+ENDFUNC
+FUNC FiUi_ pthread_key_delete, __key
+language c
+sptr 1683
+vd Ui __key
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+
+kill.ipo/       1555614775  921   1016  100664  342       `
+F../src/libpthread.c
+V17 0 19.4
+FUNC . pthread_kill_other_threads_np
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU1010_ pthread_barrierattr_destroy, __attr
+language c
+sptr 1672
+vd PDU1010 __attr
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU1010_ pthread_barrierattr_init, __attr
+language c
+sptr 1670
+vd PDU1010 __attr
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+mutex.ipo/      1555614775  921   1016  100664  1670      `
+F../src/libpthread.c
+V17 0 19.4
+FUNC FiPDU934PCDU947_ pthread_mutex_init, __mutex, __mutexattr
+language c
+sptr 1525
+vd PDU934 __mutex
+vd PCDU947 __mutexattr
+opt
+size 1
+state
+ENDFUNC
+DU934,40,7=DS939A40Scl
+DS939,40,7=iUiiUiiiDS925
+DU947,4,3=A4Sci
+FUNC FiPDU934_ pthread_mutex_destroy, __mutex
+language c
+sptr 1528
+vd PDU934 __mutex
+opt
+size 1
+state
+ENDFUNC
+DS925,16,7=PDS925PDS925
+FUNC FiPDU934_ pthread_mutex_trylock, __mutex
+language c
+sptr 1530
+vd PDU934 __mutex
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU934_ pthread_mutex_lock, __mutex
+language c
+sptr 1532
+vd PDU934 __mutex
+opt
+size 1
+state
+ENDFUNC
+FUNC FiEPDU934EPCDS116_ pthread_mutex_timedlock, __mutex, __abstime
+language c
+sptr 1534
+vd EPDU934 __mutex
+vd EPCDS116 __abstime
+opt
+size 1
+state
+ENDFUNC
+DS116,16,7=ll
+FUNC FiPDU934_ pthread_mutex_unlock, __mutex
+language c
+sptr 1537
+vd PDU934 __mutex
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU947_ pthread_mutexattr_init, __attr
+language c
+sptr 1548
+vd PDU947 __attr
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU947_ pthread_mutexattr_destroy, __attr
+language c
+sptr 1550
+vd PDU947 __attr
+opt
+size 1
+state
+ENDFUNC
+FUNC FiEPCDU947EPi_ pthread_mutexattr_getpshared, __attr, __pshared
+language c
+sptr 1552
+vd EPCDU947 __attr
+vd EPi __pshared
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU947i_ pthread_mutexattr_setpshared, __attr, __pshared
+language c
+sptr 1555
+vd PDU947 __attr
+vd i __pshared
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU947i_ pthread_mutexattr_settype, __attr, __kind
+language c
+sptr 1561
+vd PDU947 __attr
+vd i __kind
+opt
+size 1
+state
+ENDFUNC
+FUNC FiEPCDU947EPi_ pthread_mutexattr_gettype, __attr, __kind
+language c
+sptr 1558
+vd EPCDU947 __attr
+vd EPi __kind
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+once.ipo/       1555614775  921   1016  100664  192       `
+F../src/libpthread.c
+V17 0 19.4
+FUNC FiPiPFvv__ pthread_once, __once_control, __init_routine
+language c
+sptr 1491
+vd Pi __once_control
+vd PFvv_ __init_routine
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+rwlock.ipo/     1555614775  921   1016  100664  2055      `
+F../src/libpthread.c
+V17 0 19.4
+FUNC FiEPDU978EPCDU991_ pthread_rwlock_init, __rwlock, __attr
+language c
+sptr 1582
+vd EPDU978 __rwlock
+vd EPCDU991 __attr
+opt
+size 1
+state
+ENDFUNC
+DU978,56,7=DS983A56Scl
+DS983,56,7=iUiUiUiUiUiiiUlUlUi
+DU991,8,7=A8Scl
+FUNC FiPDU978_ pthread_rwlock_destroy, __rwlock
+language c
+sptr 1585
+vd PDU978 __rwlock
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU978_ pthread_rwlock_rdlock, __rwlock
+language c
+sptr 1587
+vd PDU978 __rwlock
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU978_ pthread_rwlock_tryrdlock, __rwlock
+language c
+sptr 1589
+vd PDU978 __rwlock
+opt
+size 1
+state
+ENDFUNC
+FUNC FiEPDU978EPCDS116_ pthread_rwlock_timedrdlock, __rwlock, __abstime
+language c
+sptr 1591
+vd EPDU978 __rwlock
+vd EPCDS116 __abstime
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU978_ pthread_rwlock_wrlock, __rwlock
+language c
+sptr 1594
+vd PDU978 __rwlock
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU978_ pthread_rwlock_trywrlock, __rwlock
+language c
+sptr 1596
+vd PDU978 __rwlock
+opt
+size 1
+state
+ENDFUNC
+FUNC FiEPDU978EPCDS116_ pthread_rwlock_timedwrlock, __rwlock, __abstime
+language c
+sptr 1598
+vd EPDU978 __rwlock
+vd EPCDS116 __abstime
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU978_ pthread_rwlock_unlock, __rwlock
+language c
+sptr 1601
+vd PDU978 __rwlock
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU991_ pthread_rwlockattr_init, __attr
+language c
+sptr 1603
+vd PDU991 __attr
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU991_ pthread_rwlockattr_destroy, __attr
+language c
+sptr 1605
+vd PDU991 __attr
+opt
+size 1
+state
+ENDFUNC
+FUNC FiEPCDU991EPi_ pthread_rwlockattr_getpshared, __attr, __pshared
+language c
+sptr 1607
+vd EPCDU991 __attr
+vd EPi __pshared
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU991i_ pthread_rwlockattr_setpshared, __attr, __pshared
+language c
+sptr 1610
+vd PDU991 __attr
+vd i __pshared
+opt
+size 1
+state
+ENDFUNC
+FUNC FiEPCDU991EPi_ pthread_rwlockattr_getkind_np, __attr, __pref
+language c
+sptr 1613
+vd EPCDU991 __attr
+vd EPi __pref
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPDU991i_ pthread_rwlockattr_setkind_np, __attr, __pref
+language c
+sptr 1616
+vd PDU991 __attr
+vd i __pref
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+
+self.ipo/       1555614775  921   1016  100664  146       `
+F../src/libpthread.c
+V17 0 19.4
+DU917,56,7=A56Scl
+FUNC FUlv_ pthread_self, %ARG0
+language c
+sptr 1416
+vd v %ARG0
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+/0              1555614775  921   1016  100664  172       `
+F../src/libpthread.c
+V17 0 19.4
+FUNC . pthread_setconcurrency
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . pthread_getconcurrency
+language c
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+/20             1555614775  921   1016  100664  400       `
+F../src/libpthread.c
+V17 0 19.4
+FUNC FiUliPCDS121_ pthread_setschedparam, __target_thread, __policy, __param
+language c
+sptr 1480
+vd Ul __target_thread
+vd i __policy
+vd PCDS121 __param
+opt
+size 1
+state
+ENDFUNC
+FUNC FiUlEPiEPDS121_ pthread_getschedparam, __target_thread, __policy, __param
+language c
+sptr 1484
+vd Ul __target_thread
+vd EPi __policy
+vd EPDS121 __param
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+slot.ipo/       1555614775  921   1016  100664  264       `
+F../src/libpthread.c
+V17 0 19.4
+FUNC FiUiPCv_ pthread_setspecific, __key, __pointer
+language c
+sptr 1687
+vd Ui __key
+vd PCv __pointer
+opt
+size 1
+state
+ENDFUNC
+FUNC FPvUi_ pthread_getspecific, __key
+language c
+sptr 1685
+vd Ui __key
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+spin.ipo/       1555614775  921   1016  100664  565       `
+F../src/libpthread.c
+V17 0 19.4
+FUNC FiPVii_ pthread_spin_init, __lock, __pshared
+language c
+sptr 1651
+vd PVi __lock
+vd i __pshared
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPVi_ pthread_spin_destroy, __lock
+language c
+sptr 1654
+vd PVi __lock
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPVi_ pthread_spin_lock, __lock
+language c
+sptr 1656
+vd PVi __lock
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPVi_ pthread_spin_trylock, __lock
+language c
+sptr 1658
+vd PVi __lock
+opt
+size 1
+state
+ENDFUNC
+FUNC FiPVi_ pthread_spin_unlock, __lock
+language c
+sptr 1660
+vd PVi __lock
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+
+yield.ipo/      1555614775  921   1016  100664  97        `
+F../src/libpthread.c
+V17 0 19.4
+FUNC . pthread_yield
+language c
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+

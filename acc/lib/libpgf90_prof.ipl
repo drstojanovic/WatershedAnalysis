@@ -1,0 +1,192 @@
+!<arch>
+//                                              18        `
+cprof_redcnt.ipo/
+cprof_all.ipo/  1555614903  921   1016  100664  167       `
+F../src/libpgf90_prof.c
+V17 0 19.4
+FUNC . __hpf_pgprof_name
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_prof_term_all
+language c
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+
+cprof_avg.ipo/  1555614903  921   1016  100664  106       `
+F../src/libpgf90_prof.c
+V17 0 19.4
+FUNC . __hpf_prof_term_avg
+language c
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+cprof_base.ipo/ 1555614903  921   1016  100664  1226      `
+F../src/libpgf90_prof.c
+V17 0 19.4
+FUNC . __hpf_prof_arecv
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_prof_arecv_done
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_prof_asend
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_prof_asend_done
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_prof_await
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_prof_await_done
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_prof_compar
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_prof_copy
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_prof_copy_done
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_prof_function_entry
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_prof_function_exit
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_prof_init
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_prof_line_entry
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_prof_recv
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_prof_recv_done
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_prof_send
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_prof_send_done
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_prof_set
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __hpf_prof_term
+language c
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+cprof_int.ipo/  1555614903  921   1016  100664  310       `
+F../src/libpgf90_prof.c
+V17 0 19.4
+FUNC . ___linent2
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . ___rouent
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . ___rouret2
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __rouexit
+language c
+opt
+size 1
+state
+ENDFUNC
+FUNC . __rouinit
+language c
+opt
+size 1
+state
+ENDFUNC
+ENDFILE
+/0              1555614903  921   1016  100664  104       `
+F../src/libpgf90_prof.c
+V17 0 19.4
+FUNC . __hpf_prof_redcnt
+language c
+opt
+size 1
+state
+ENDFUNC
+ENDFILE

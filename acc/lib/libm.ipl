@@ -1,0 +1,7236 @@
+!<arch>
+//                                              332       `
+e_remainderf.ipo/
+e_remainderl.ipo/
+fgetexcptflg.ipo/
+fsetexcptflg.ipo/
+s_fpclassify.ipo/
+s_fpclassifyf.ipo/
+s_fpclassifyl.ipo/
+s_nearbyintf.ipo/
+s_nearbyintl.ipo/
+s_nextafterf.ipo/
+s_nextafterl.ipo/
+s_nexttoward.ipo/
+s_nexttowardf.ipo/
+s_significand.ipo/
+s_significandf.ipo/
+s_significandl.ipo/
+w_remainderf.ipo/
+w_remainderl.ipo/
+cabs.ipo/       1555614725  921   1016  100664  140       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cabs
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cabs
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+cabsf.ipo/      1555614725  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cabsf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cabsf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+cabsl.ipo/      1555614727  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cabsl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cabsl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+carg.ipo/       1555614725  921   1016  100664  140       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __carg
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . carg
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+cargf.ipo/      1555614725  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cargf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cargf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+cargl.ipo/      1555614727  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cargl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cargl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+cimag.ipo/      1555614725  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cimag
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cimag
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+cimagf.ipo/     1555614725  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cimagf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cimagf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+cimagl.ipo/     1555614727  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cimagl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cimagl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+conj.ipo/       1555614725  921   1016  100664  140       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __conj
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . conj
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+conjf.ipo/      1555614725  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __conjf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . conjf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+conjl.ipo/      1555614727  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __conjl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . conjl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+creal.ipo/      1555614725  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __creal
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . creal
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+crealf.ipo/     1555614725  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __crealf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . crealf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+creall.ipo/     1555614727  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __creall
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . creall
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_acos.ipo/     1555614724  921   1016  100664  96        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_acos
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_acosf.ipo/    1555614725  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_acosf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_acosh.ipo/    1555614724  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_acosh
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_acoshf.ipo/   1555614725  921   1016  100664  98        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_acoshf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_acoshl.ipo/   1555614726  921   1016  100664  98        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_acoshl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_acosl.ipo/    1555614726  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_acosl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_asin.ipo/     1555614724  921   1016  100664  96        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_asin
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_asinf.ipo/    1555614725  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_asinf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_asinl.ipo/    1555614726  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_asinl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_atan2.ipo/    1555614724  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_atan2
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_atan2f.ipo/   1555614725  921   1016  100664  98        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_atan2f
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_atan2l.ipo/   1555614726  921   1016  100664  98        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_atan2l
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_atanh.ipo/    1555614724  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_atanh
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_atanhf.ipo/   1555614725  921   1016  100664  98        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_atanhf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_atanhl.ipo/   1555614726  921   1016  100664  98        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_atanhl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_cosh.ipo/     1555614724  921   1016  100664  96        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_cosh
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_coshf.ipo/    1555614725  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_coshf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_coshl.ipo/    1555614726  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_coshl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_exp.ipo/      1555614724  921   1016  100664  95        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_exp
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_exp10.ipo/    1555614725  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_exp10
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_exp10f.ipo/   1555614726  921   1016  100664  98        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_exp10f
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_exp10l.ipo/   1555614727  921   1016  100664  98        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_exp10l
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_expf.ipo/     1555614725  921   1016  100664  96        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_expf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_expl.ipo/     1555614726  921   1016  100664  96        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_expl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_fmod.ipo/     1555614724  921   1016  100664  96        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_fmod
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_fmodf.ipo/    1555614725  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_fmodf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_fmodl.ipo/    1555614726  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_fmodl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_gamma_r.ipo/  1555614724  921   1016  100664  99        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_gamma_r
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_gammaf_r.ipo/ 1555614725  921   1016  100664  100       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_gammaf_r
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_gammal_r.ipo/ 1555614726  921   1016  100664  100       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_gammal_r
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_hypot.ipo/    1555614724  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_hypot
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_hypotf.ipo/   1555614725  921   1016  100664  98        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_hypotf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_hypotl.ipo/   1555614726  921   1016  100664  98        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_hypotl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_j0.ipo/       1555614724  921   1016  100664  154       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_j0
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . __ieee754_y0
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_j0f.ipo/      1555614725  921   1016  100664  156       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_j0f
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . __ieee754_y0f
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_j0l.ipo/      1555614726  921   1016  100664  156       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_j0l
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . __ieee754_y0l
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_j1.ipo/       1555614724  921   1016  100664  154       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_j1
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . __ieee754_y1
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_j1f.ipo/      1555614725  921   1016  100664  156       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_j1f
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . __ieee754_y1f
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_j1l.ipo/      1555614726  921   1016  100664  156       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_j1l
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . __ieee754_y1l
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_jn.ipo/       1555614724  921   1016  100664  154       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_jn
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . __ieee754_yn
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_jnf.ipo/      1555614725  921   1016  100664  156       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_jnf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . __ieee754_ynf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_jnl.ipo/      1555614726  921   1016  100664  156       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_jnl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . __ieee754_ynl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_lgamma_r.ipo/ 1555614724  921   1016  100664  100       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_lgamma_r
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_lgammaf_r.ipo/1555614725  921   1016  100664  101       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_lgammaf_r
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_lgammal_r.ipo/1555614726  921   1016  100664  101       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_lgammal_r
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_log.ipo/      1555614724  921   1016  100664  95        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_log
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_log10.ipo/    1555614724  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_log10
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_log10f.ipo/   1555614725  921   1016  100664  98        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_log10f
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_log10l.ipo/   1555614726  921   1016  100664  98        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_log10l
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_logf.ipo/     1555614725  921   1016  100664  96        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_logf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_logl.ipo/     1555614726  921   1016  100664  96        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_logl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_pow.ipo/      1555614724  921   1016  100664  95        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_pow
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_powf.ipo/     1555614725  921   1016  100664  96        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_powf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_powl.ipo/     1555614726  921   1016  100664  96        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_powl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_remainder.ipo/1555614724  921   1016  100664  101       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_remainder
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+/0              1555614725  921   1016  100664  102       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_remainderf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+/18             1555614726  921   1016  100664  102       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_remainderl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_scalb.ipo/    1555614724  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_scalb
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_scalbf.ipo/   1555614725  921   1016  100664  98        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_scalbf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_scalbl.ipo/   1555614726  921   1016  100664  98        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_scalbl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_sinh.ipo/     1555614724  921   1016  100664  96        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_sinh
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_sinhf.ipo/    1555614725  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_sinhf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_sinhl.ipo/    1555614726  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_sinhl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_sqrt.ipo/     1555614724  921   1016  100664  96        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_sqrt
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+e_sqrtf.ipo/    1555614725  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_sqrtf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+e_sqrtl.ipo/    1555614726  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_sqrtl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+fclrexcpt.ipo/  1555614724  921   1016  100664  115       `
+F../src/libm.c
+V17 0 19.4
+DS3852,40,7=iPScddd
+FUNC . feclearexcept
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+fegetenv.ipo/   1555614724  921   1016  100664  90        `
+F../src/libm.c
+V17 0 19.4
+FUNC . fegetenv
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+fegetround.ipo/ 1555614724  921   1016  100664  92        `
+F../src/libm.c
+V17 0 19.4
+FUNC . fegetround
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+feholdexcpt.ipo/1555614724  921   1016  100664  94        `
+F../src/libm.c
+V17 0 19.4
+FUNC . feholdexcept
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+fesetenv.ipo/   1555614724  921   1016  100664  90        `
+F../src/libm.c
+V17 0 19.4
+FUNC . fesetenv
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+fesetround.ipo/ 1555614724  921   1016  100664  92        `
+F../src/libm.c
+V17 0 19.4
+FUNC . fesetround
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+feupdateenv.ipo/1555614724  921   1016  100664  93        `
+F../src/libm.c
+V17 0 19.4
+FUNC . feupdateenv
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+/36             1555614724  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . fegetexceptflag
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+fraiseexcpt.ipo/1555614724  921   1016  100664  95        `
+F../src/libm.c
+V17 0 19.4
+FUNC . feraiseexcept
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+/54             1555614724  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . fesetexceptflag
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+ftestexcept.ipo/1555614724  921   1016  100664  94        `
+F../src/libm.c
+V17 0 19.4
+FUNC . fetestexcept
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+k_cos.ipo/      1555614724  921   1016  100664  94        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __kernel_cos
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+k_cosf.ipo/     1555614725  921   1016  100664  95        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __kernel_cosf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+k_cosl.ipo/     1555614726  921   1016  100664  95        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __kernel_cosl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+k_sin.ipo/      1555614724  921   1016  100664  94        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __kernel_sin
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+k_sinf.ipo/     1555614725  921   1016  100664  95        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __kernel_sinf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+k_sinl.ipo/     1555614726  921   1016  100664  95        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __kernel_sinl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+k_standard.ipo/ 1555614724  921   1016  100664  99        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __kernel_standard
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+k_tan.ipo/      1555614724  921   1016  100664  94        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __kernel_tan
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+k_tanf.ipo/     1555614725  921   1016  100664  95        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __kernel_tanf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+k_tanl.ipo/     1555614726  921   1016  100664  95        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __kernel_tanl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+s_asinh.ipo/    1555614724  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __asinh, __x
+language c
+sptr 1139
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ asinh, __x
+language c
+sptr 1137
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_asinhf.ipo/   1555614725  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __asinhf, __x
+language c
+sptr 1445
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ asinhf, __x
+language c
+sptr 1443
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_asinhl.ipo/   1555614726  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __asinhl, __x
+language c
+sptr 1751
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ asinhl, __x
+language c
+sptr 1749
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_atan.ipo/     1555614724  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __atan, __x
+language c
+sptr 1101
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ atan, __x
+language c
+sptr 1099
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_atanf.ipo/    1555614725  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __atanf, __x
+language c
+sptr 1407
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ atanf, __x
+language c
+sptr 1405
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_atanl.ipo/    1555614726  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __atanl, __x
+language c
+sptr 1713
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ atanl, __x
+language c
+sptr 1711
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cacos.ipo/    1555614725  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cacos
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cacos
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cacosf.ipo/   1555614725  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cacosf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cacosf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cacosh.ipo/   1555614725  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cacosh
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cacosh
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cacoshf.ipo/  1555614725  921   1016  100664  146       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cacoshf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cacoshf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cacoshl.ipo/  1555614727  921   1016  100664  146       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cacoshl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cacoshl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cacosl.ipo/   1555614727  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cacosl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cacosl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_casin.ipo/    1555614725  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __casin
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . casin
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_casinf.ipo/   1555614725  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __casinf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . casinf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_casinh.ipo/   1555614725  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __casinh
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . casinh
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_casinhf.ipo/  1555614725  921   1016  100664  146       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __casinhf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . casinhf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_casinhl.ipo/  1555614727  921   1016  100664  146       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __casinhl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . casinhl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_casinl.ipo/   1555614727  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __casinl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . casinl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_catan.ipo/    1555614725  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __catan
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . catan
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_catanf.ipo/   1555614725  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __catanf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . catanf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_catanh.ipo/   1555614725  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __catanh
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . catanh
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_catanhf.ipo/  1555614725  921   1016  100664  146       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __catanhf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . catanhf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_catanhl.ipo/  1555614727  921   1016  100664  146       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __catanhl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . catanhl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_catanl.ipo/   1555614727  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __catanl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . catanl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cbrt.ipo/     1555614724  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __cbrt, __x
+language c
+sptr 1213
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ cbrt, __x
+language c
+sptr 1211
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cbrtf.ipo/    1555614725  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __cbrtf, __x
+language c
+sptr 1519
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ cbrtf, __x
+language c
+sptr 1517
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cbrtl.ipo/    1555614726  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __cbrtl, __x
+language c
+sptr 1825
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ cbrtl, __x
+language c
+sptr 1823
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ccos.ipo/     1555614725  921   1016  100664  140       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ccos
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . ccos
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ccosf.ipo/    1555614725  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ccosf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . ccosf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ccosh.ipo/    1555614725  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ccosh
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . ccosh
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ccoshf.ipo/   1555614725  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ccoshf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . ccoshf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ccoshl.ipo/   1555614727  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ccoshl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . ccoshl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ccosl.ipo/    1555614727  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ccosl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . ccosl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ceil.ipo/     1555614724  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __ceil, __x
+language c
+sptr 1217
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ ceil, __x
+language c
+sptr 1215
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ceilf.ipo/    1555614725  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __ceilf, __x
+language c
+sptr 1523
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ ceilf, __x
+language c
+sptr 1521
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ceill.ipo/    1555614726  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __ceill, __x
+language c
+sptr 1829
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ ceill, __x
+language c
+sptr 1827
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cexp.ipo/     1555614725  921   1016  100664  140       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cexp
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cexp
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cexpf.ipo/    1555614725  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cexpf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cexpf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cexpl.ipo/    1555614727  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cexpl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cexpl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_clog.ipo/     1555614725  921   1016  100664  140       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __clog
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . clog
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_clog10.ipo/   1555614725  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __clog10
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . clog10
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_clog10f.ipo/  1555614726  921   1016  100664  146       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __clog10f
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . clog10f
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_clog10l.ipo/  1555614727  921   1016  100664  146       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __clog10l
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . clog10l
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_clogf.ipo/    1555614725  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __clogf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . clogf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_clogl.ipo/    1555614727  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __clogl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . clogl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_copysign.ipo/ 1555614724  921   1016  100664  232       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fddd_ __copysign, __x, __y
+language c
+sptr 1254
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fddd_ copysign, __x, __y
+language c
+sptr 1251
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_copysignf.ipo/1555614725  921   1016  100664  234       `
+F../src/libm.c
+V17 0 19.4
+FUNC Ffff_ __copysignf, __x, __y
+language c
+sptr 1560
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Ffff_ copysignf, __x, __y
+language c
+sptr 1557
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_copysignl.ipo/1555614726  921   1016  100664  234       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frrr_ __copysignl, __x, __y
+language c
+sptr 1866
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frrr_ copysignl, __x, __y
+language c
+sptr 1863
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cos.ipo/      1555614724  921   1016  100664  192       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __cos, __x
+language c
+sptr 1111
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ cos, __x
+language c
+sptr 1109
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cosf.ipo/     1555614725  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __cosf, __x
+language c
+sptr 1417
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ cosf, __x
+language c
+sptr 1415
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cosl.ipo/     1555614726  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __cosl, __x
+language c
+sptr 1723
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ cosl, __x
+language c
+sptr 1721
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cpow.ipo/     1555614725  921   1016  100664  140       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cpow
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cpow
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cpowf.ipo/    1555614726  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cpowf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cpowf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cpowl.ipo/    1555614727  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cpowl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cpowl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cproj.ipo/    1555614725  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cproj
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cproj
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cprojf.ipo/   1555614726  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cprojf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cprojf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_cprojl.ipo/   1555614727  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __cprojl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . cprojl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_csin.ipo/     1555614725  921   1016  100664  140       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __csin
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . csin
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_csinf.ipo/    1555614725  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __csinf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . csinf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_csinh.ipo/    1555614725  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __csinh
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . csinh
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_csinhf.ipo/   1555614725  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __csinhf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . csinhf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_csinhl.ipo/   1555614727  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __csinhl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . csinhl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_csinl.ipo/    1555614727  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __csinl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . csinl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_csqrt.ipo/    1555614725  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __csqrt
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . csqrt
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_csqrtf.ipo/   1555614726  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __csqrtf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . csqrtf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_csqrtl.ipo/   1555614727  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __csqrtl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . csqrtl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ctan.ipo/     1555614725  921   1016  100664  140       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ctan
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . ctan
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ctanf.ipo/    1555614725  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ctanf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . ctanf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ctanh.ipo/    1555614725  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ctanh
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . ctanh
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ctanhf.ipo/   1555614725  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ctanhf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . ctanhf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ctanhl.ipo/   1555614727  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ctanhl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . ctanhl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ctanl.ipo/    1555614727  921   1016  100664  142       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ctanl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . ctanl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_erf.ipo/      1555614724  921   1016  100664  368       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __erf, %ARG0
+language c
+sptr 1278
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ __erfc, %ARG0
+language c
+sptr 1280
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ erf, %ARG0
+language c
+sptr 1277
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ erfc, %ARG0
+language c
+sptr 1279
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_erff.ipo/     1555614725  921   1016  100664  372       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __erfcf, %ARG0
+language c
+sptr 1586
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ __erff, %ARG0
+language c
+sptr 1584
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ erfcf, %ARG0
+language c
+sptr 1585
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ erff, %ARG0
+language c
+sptr 1583
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_erfl.ipo/     1555614726  921   1016  100664  372       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __erfcl, %ARG0
+language c
+sptr 1892
+vd r %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ __erfl, %ARG0
+language c
+sptr 1890
+vd r %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ erfcl, %ARG0
+language c
+sptr 1891
+vd r %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ erfl, %ARG0
+language c
+sptr 1889
+vd r %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_exp2.ipo/     1555614725  921   1016  100664  96        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_exp2
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_exp2f.ipo/    1555614725  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_exp2f
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+s_exp2l.ipo/    1555614727  921   1016  100664  97        `
+F../src/libm.c
+V17 0 19.4
+FUNC . __ieee754_exp2l
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+s_expm1.ipo/    1555614724  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __expm1, __x
+language c
+sptr 1177
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ expm1, __x
+language c
+sptr 1175
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_expm1f.ipo/   1555614725  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __expm1f, __x
+language c
+sptr 1483
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ expm1f, __x
+language c
+sptr 1481
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_expm1l.ipo/   1555614726  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __expm1l, __x
+language c
+sptr 1789
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ expm1l, __x
+language c
+sptr 1787
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_fabs.ipo/     1555614724  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __fabs, __x
+language c
+sptr 1221
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ fabs, __x
+language c
+sptr 1219
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_fabsf.ipo/    1555614725  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __fabsf, __x
+language c
+sptr 1527
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ fabsf, __x
+language c
+sptr 1525
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_fabsl.ipo/    1555614726  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __fabsl, __x
+language c
+sptr 1833
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ fabsl, __x
+language c
+sptr 1831
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_fdim.ipo/     1555614725  921   1016  100664  224       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fddd_ __fdim, __x, __y
+language c
+sptr 1364
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fddd_ fdim, __x, __y
+language c
+sptr 1361
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_fdimf.ipo/    1555614725  921   1016  100664  226       `
+F../src/libm.c
+V17 0 19.4
+FUNC Ffff_ __fdimf, __x, __y
+language c
+sptr 1670
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Ffff_ fdimf, __x, __y
+language c
+sptr 1667
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_fdiml.ipo/    1555614727  921   1016  100664  226       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frrr_ __fdiml, __x, __y
+language c
+sptr 1980
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frrr_ fdiml, __x, __y
+language c
+sptr 1977
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_finite.ipo/   1555614724  921   1016  100664  214       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fid_ __finite, __value
+language c
+sptr 1235
+vd d __value
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fid_ finite, __value
+language c
+sptr 1239
+vd d __value
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_finitef.ipo/  1555614725  921   1016  100664  216       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fif_ __finitef, __value
+language c
+sptr 1541
+vd f __value
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fif_ finitef, __value
+language c
+sptr 1545
+vd f __value
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_finitel.ipo/  1555614726  921   1016  100664  216       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fir_ __finitel, __value
+language c
+sptr 1847
+vd r __value
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fir_ finitel, __value
+language c
+sptr 1851
+vd r __value
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_floor.ipo/    1555614724  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __floor, __x
+language c
+sptr 1225
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ floor, __x
+language c
+sptr 1223
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_floorf.ipo/   1555614725  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __floorf, __x
+language c
+sptr 1531
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ floorf, __x
+language c
+sptr 1529
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_floorl.ipo/   1555614726  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __floorl, __x
+language c
+sptr 1837
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ floorl, __x
+language c
+sptr 1835
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_fma.ipo/      1555614725  921   1016  100664  252       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdddd_ __fma, __x, __y, __z
+language c
+sptr 1387
+vd d __x
+vd d __y
+vd d __z
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdddd_ fma, __x, __y, __z
+language c
+sptr 1383
+vd d __x
+vd d __y
+vd d __z
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_fmaf.ipo/     1555614726  921   1016  100664  254       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fffff_ __fmaf, __x, __y, __z
+language c
+sptr 1693
+vd f __x
+vd f __y
+vd f __z
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fffff_ fmaf, __x, __y, __z
+language c
+sptr 1689
+vd f __x
+vd f __y
+vd f __z
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_fmal.ipo/     1555614727  921   1016  100664  254       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frrrr_ __fmal, __x, __y, __z
+language c
+sptr 2003
+vd r __x
+vd r __y
+vd r __z
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frrrr_ fmal, __x, __y, __z
+language c
+sptr 1999
+vd r __x
+vd r __y
+vd r __z
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_fmax.ipo/     1555614725  921   1016  100664  224       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fddd_ __fmax, __x, __y
+language c
+sptr 1370
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fddd_ fmax, __x, __y
+language c
+sptr 1367
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_fmaxf.ipo/    1555614725  921   1016  100664  226       `
+F../src/libm.c
+V17 0 19.4
+FUNC Ffff_ __fmaxf, __x, __y
+language c
+sptr 1676
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Ffff_ fmaxf, __x, __y
+language c
+sptr 1673
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_fmaxl.ipo/    1555614727  921   1016  100664  226       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frrr_ __fmaxl, __x, __y
+language c
+sptr 1986
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frrr_ fmaxl, __x, __y
+language c
+sptr 1983
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_fmin.ipo/     1555614725  921   1016  100664  224       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fddd_ __fmin, __x, __y
+language c
+sptr 1376
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fddd_ fmin, __x, __y
+language c
+sptr 1373
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_fminf.ipo/    1555614725  921   1016  100664  226       `
+F../src/libm.c
+V17 0 19.4
+FUNC Ffff_ __fminf, __x, __y
+language c
+sptr 1682
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Ffff_ fminf, __x, __y
+language c
+sptr 1679
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_fminl.ipo/    1555614727  921   1016  100664  226       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frrr_ __fminl, __x, __y
+language c
+sptr 1992
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frrr_ fminl, __x, __y
+language c
+sptr 1989
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+/72             1555614725  921   1016  100664  129       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fid_ __fpclassify, __value
+language c
+sptr 1379
+vd d __value
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+/90             1555614725  921   1016  100664  130       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fif_ __fpclassifyf, __value
+language c
+sptr 1685
+vd f __value
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+/109            1555614727  921   1016  100664  130       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fir_ __fpclassifyl, __value
+language c
+sptr 1995
+vd r __value
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_frexp.ipo/    1555614724  921   1016  100664  258       `
+F../src/libm.c
+V17 0 19.4
+FUNC FddPi_ __frexp, __x, __exponent
+language c
+sptr 1152
+vd d __x
+vd Pi __exponent
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FddPi_ frexp, __x, __exponent
+language c
+sptr 1149
+vd d __x
+vd Pi __exponent
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_frexpf.ipo/   1555614725  921   1016  100664  260       `
+F../src/libm.c
+V17 0 19.4
+FUNC FffPi_ __frexpf, __x, __exponent
+language c
+sptr 1458
+vd f __x
+vd Pi __exponent
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FffPi_ frexpf, __x, __exponent
+language c
+sptr 1455
+vd f __x
+vd Pi __exponent
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_frexpl.ipo/   1555614726  921   1016  100664  260       `
+F../src/libm.c
+V17 0 19.4
+FUNC FrrPi_ __frexpl, __x, __exponent
+language c
+sptr 1764
+vd r __x
+vd Pi __exponent
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FrrPi_ frexpl, __x, __exponent
+language c
+sptr 1761
+vd r __x
+vd Pi __exponent
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ilogb.ipo/    1555614724  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fid_ __ilogb, __x
+language c
+sptr 1320
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fid_ ilogb, __x
+language c
+sptr 1318
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ilogbf.ipo/   1555614725  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fif_ __ilogbf, __x
+language c
+sptr 1626
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fif_ ilogbf, __x
+language c
+sptr 1624
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ilogbl.ipo/   1555614726  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fir_ __ilogbl, __x
+language c
+sptr 1933
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fir_ ilogbl, __x
+language c
+sptr 1931
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ldexp.ipo/    1555614724  921   1016  100664  254       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fddi_ __ldexp, __x, __exponent
+language c
+sptr 1158
+vd d __x
+vd i __exponent
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fddi_ ldexp, __x, __exponent
+language c
+sptr 1155
+vd d __x
+vd i __exponent
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ldexpf.ipo/   1555614725  921   1016  100664  256       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fffi_ __ldexpf, __x, __exponent
+language c
+sptr 1464
+vd f __x
+vd i __exponent
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fffi_ ldexpf, __x, __exponent
+language c
+sptr 1461
+vd f __x
+vd i __exponent
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_ldexpl.ipo/   1555614726  921   1016  100664  256       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frri_ __ldexpl, __x, __exponent
+language c
+sptr 1770
+vd r __x
+vd i __exponent
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frri_ ldexpl, __x, __exponent
+language c
+sptr 1767
+vd r __x
+vd i __exponent
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_llrint.ipo/   1555614725  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC FLd_ __llrint, __x
+language c
+sptr 1353
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FLd_ llrint, __x
+language c
+sptr 1351
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_llrintf.ipo/  1555614726  921   1016  100664  200       `
+F../src/libm.c
+V17 0 19.4
+FUNC FLf_ __llrintf, __x
+language c
+sptr 1659
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FLf_ llrintf, __x
+language c
+sptr 1657
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_llrintl.ipo/  1555614727  921   1016  100664  200       `
+F../src/libm.c
+V17 0 19.4
+FUNC FLr_ __llrintl, __x
+language c
+sptr 1967
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FLr_ llrintl, __x
+language c
+sptr 1965
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_llround.ipo/  1555614725  921   1016  100664  204       `
+F../src/libm.c
+V17 0 19.4
+FUNC FLd_ __llround, __x
+language c
+sptr 1359
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FLd_ llround, %ARG0
+language c
+sptr 1073
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_llroundf.ipo/ 1555614726  921   1016  100664  206       `
+F../src/libm.c
+V17 0 19.4
+FUNC FLf_ __llroundf, __x
+language c
+sptr 1665
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FLf_ llroundf, %ARG0
+language c
+sptr 1074
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_llroundl.ipo/ 1555614727  921   1016  100664  202       `
+F../src/libm.c
+V17 0 19.4
+FUNC FLr_ __llroundl, __x
+language c
+sptr 1975
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FLr_ llroundl, __x
+language c
+sptr 1973
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_log1p.ipo/    1555614724  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __log1p, __x
+language c
+sptr 1181
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ log1p, __x
+language c
+sptr 1179
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_log1pf.ipo/   1555614725  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __log1pf, __x
+language c
+sptr 1487
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ log1pf, __x
+language c
+sptr 1485
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_log1pl.ipo/   1555614726  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __log1pl, __x
+language c
+sptr 1793
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ log1pl, __x
+language c
+sptr 1791
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_log2.ipo/     1555614725  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __log2, __x
+language c
+sptr 1193
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ log2, __x
+language c
+sptr 1191
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_log2f.ipo/    1555614725  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __log2f, __x
+language c
+sptr 1499
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ log2f, __x
+language c
+sptr 1497
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_log2l.ipo/    1555614727  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __log2l, __x
+language c
+sptr 1805
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ log2l, __x
+language c
+sptr 1803
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_logb.ipo/     1555614724  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __logb, __x
+language c
+sptr 1185
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ logb, __x
+language c
+sptr 1183
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_logbf.ipo/    1555614725  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __logbf, __x
+language c
+sptr 1491
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ logbf, __x
+language c
+sptr 1489
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_logbl.ipo/    1555614726  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __logbl, __x
+language c
+sptr 1797
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ logbl, __x
+language c
+sptr 1795
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_lrint.ipo/    1555614725  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fld_ __lrint, __x
+language c
+sptr 1349
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fld_ lrint, __x
+language c
+sptr 1347
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_lrintf.ipo/   1555614726  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Flf_ __lrintf, __x
+language c
+sptr 1655
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Flf_ lrintf, __x
+language c
+sptr 1653
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_lrintl.ipo/   1555614727  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Flr_ __lrintl, __x
+language c
+sptr 1963
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Flr_ lrintl, __x
+language c
+sptr 1961
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_lround.ipo/   1555614725  921   1016  100664  202       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fld_ __lround, __x
+language c
+sptr 1356
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fld_ lround, %ARG0
+language c
+sptr 1071
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_lroundf.ipo/  1555614726  921   1016  100664  204       `
+F../src/libm.c
+V17 0 19.4
+FUNC Flf_ __lroundf, __x
+language c
+sptr 1662
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Flf_ lroundf, %ARG0
+language c
+sptr 1072
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_lroundl.ipo/  1555614727  921   1016  100664  200       `
+F../src/libm.c
+V17 0 19.4
+FUNC Flr_ __lroundl, __x
+language c
+sptr 1971
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Flr_ lroundl, __x
+language c
+sptr 1969
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_matherr.ipo/  1555614724  921   1016  100664  189       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __matherr
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FiPDS3852_ matherr, __exc
+language c
+sptr 2032
+vd PDS3852 __exc
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+s_modf.ipo/     1555614724  921   1016  100664  240       `
+F../src/libm.c
+V17 0 19.4
+FUNC FddPd_ __modf, __x, __iptr
+language c
+sptr 1172
+vd d __x
+vd Pd __iptr
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FddPd_ modf, __x, __iptr
+language c
+sptr 1169
+vd d __x
+vd Pd __iptr
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_modff.ipo/    1555614725  921   1016  100664  242       `
+F../src/libm.c
+V17 0 19.4
+FUNC FffPf_ __modff, __x, __iptr
+language c
+sptr 1478
+vd f __x
+vd Pf __iptr
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FffPf_ modff, __x, __iptr
+language c
+sptr 1475
+vd f __x
+vd Pf __iptr
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_modfl.ipo/    1555614726  921   1016  100664  242       `
+F../src/libm.c
+V17 0 19.4
+FUNC FrrPr_ __modfl, __x, __iptr
+language c
+sptr 1784
+vd r __x
+vd Pr __iptr
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FrrPr_ modfl, __x, __iptr
+language c
+sptr 1781
+vd r __x
+vd Pr __iptr
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_nan.ipo/      1555614725  921   1016  100664  216       `
+F../src/libm.c
+V17 0 19.4
+FUNC FdPCSc_ __nan, __tagb
+language c
+sptr 1259
+vd PCSc __tagb
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FdPCSc_ nan, __tagb
+language c
+sptr 1257
+vd PCSc __tagb
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_nanf.ipo/     1555614725  921   1016  100664  218       `
+F../src/libm.c
+V17 0 19.4
+FUNC FfPCSc_ __nanf, __tagb
+language c
+sptr 1565
+vd PCSc __tagb
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FfPCSc_ nanf, __tagb
+language c
+sptr 1563
+vd PCSc __tagb
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_nanl.ipo/     1555614727  921   1016  100664  218       `
+F../src/libm.c
+V17 0 19.4
+FUNC FrPCSc_ __nanl, __tagb
+language c
+sptr 1871
+vd PCSc __tagb
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FrPCSc_ nanl, __tagb
+language c
+sptr 1869
+vd PCSc __tagb
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_nearbyint.ipo/1555614725  921   1016  100664  204       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __nearbyint, __x
+language c
+sptr 1330
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ nearbyint, __x
+language c
+sptr 1328
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+/128            1555614725  921   1016  100664  206       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __nearbyintf, __x
+language c
+sptr 1636
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ nearbyintf, __x
+language c
+sptr 1634
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+/146            1555614727  921   1016  100664  206       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __nearbyintl, __x
+language c
+sptr 1943
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ nearbyintl, __x
+language c
+sptr 1941
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_nextafter.ipo/1555614724  921   1016  100664  234       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fddd_ __nextafter, __x, __y
+language c
+sptr 1297
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fddd_ nextafter, __x, __y
+language c
+sptr 1294
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+/164            1555614725  921   1016  100664  236       `
+F../src/libm.c
+V17 0 19.4
+FUNC Ffff_ __nextafterf, __x, __y
+language c
+sptr 1603
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Ffff_ nextafterf, __x, __y
+language c
+sptr 1600
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+/182            1555614726  921   1016  100664  440       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frrr_ __nextafterl, __x, __y
+language c
+sptr 1910
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frrr_ __nexttowardl, __x, __y
+language c
+sptr 1916
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frrr_ nextafterl, __x, __y
+language c
+sptr 1907
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frrr_ nexttowardl, __x, __y
+language c
+sptr 1913
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+/200            1555614724  921   1016  100664  236       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fddr_ __nexttoward, __x, __y
+language c
+sptr 1303
+vd d __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fddr_ nexttoward, __x, __y
+language c
+sptr 1300
+vd d __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+/218            1555614725  921   1016  100664  238       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fffr_ __nexttowardf, __x, __y
+language c
+sptr 1609
+vd f __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fffr_ nexttowardf, __x, __y
+language c
+sptr 1606
+vd f __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_remquo.ipo/   1555614725  921   1016  100664  270       `
+F../src/libm.c
+V17 0 19.4
+FUNC FdddPi_ __remquo, __x, __y, __quo
+language c
+sptr 1343
+vd d __x
+vd d __y
+vd Pi __quo
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FdddPi_ remquo, __x, __y, __quo
+language c
+sptr 1339
+vd d __x
+vd d __y
+vd Pi __quo
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_remquof.ipo/  1555614725  921   1016  100664  272       `
+F../src/libm.c
+V17 0 19.4
+FUNC FfffPi_ __remquof, __x, __y, __quo
+language c
+sptr 1649
+vd f __x
+vd f __y
+vd Pi __quo
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FfffPi_ remquof, __x, __y, __quo
+language c
+sptr 1645
+vd f __x
+vd f __y
+vd Pi __quo
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_remquol.ipo/  1555614727  921   1016  100664  272       `
+F../src/libm.c
+V17 0 19.4
+FUNC FrrrPi_ __remquol, __x, __y, __quo
+language c
+sptr 1957
+vd r __x
+vd r __y
+vd Pi __quo
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FrrrPi_ remquol, __x, __y, __quo
+language c
+sptr 1953
+vd r __x
+vd r __y
+vd Pi __quo
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_rint.ipo/     1555614724  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __rint, __x
+language c
+sptr 1292
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ rint, __x
+language c
+sptr 1290
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_rintf.ipo/    1555614725  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __rintf, __x
+language c
+sptr 1598
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ rintf, __x
+language c
+sptr 1596
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_rintl.ipo/    1555614726  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __rintl, __x
+language c
+sptr 1905
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ rintl, __x
+language c
+sptr 1903
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_round.ipo/    1555614725  921   1016  100664  200       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __round, __x
+language c
+sptr 1333
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ round, %ARG0
+language c
+sptr 1069
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_roundf.ipo/   1555614725  921   1016  100664  202       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __roundf, __x
+language c
+sptr 1639
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ roundf, %ARG0
+language c
+sptr 1070
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_roundl.ipo/   1555614727  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __roundl, __x
+language c
+sptr 1947
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ roundl, __x
+language c
+sptr 1945
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_scalbn.ipo/   1555614724  921   1016  100664  424       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fddl_ __scalbln, __x, __n
+language c
+sptr 1325
+vd d __x
+vd l __n
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fddi_ __scalbn, __x, __n
+language c
+sptr 1315
+vd d __x
+vd i __n
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fddl_ scalbln, __x, __n
+language c
+sptr 1322
+vd d __x
+vd l __n
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fddi_ scalbn, __x, __n
+language c
+sptr 1312
+vd d __x
+vd i __n
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_scalbnf.ipo/  1555614725  921   1016  100664  428       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fffl_ __scalblnf, __x, __n
+language c
+sptr 1631
+vd f __x
+vd l __n
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fffi_ __scalbnf, __x, __n
+language c
+sptr 1621
+vd f __x
+vd i __n
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fffl_ scalblnf, __x, __n
+language c
+sptr 1628
+vd f __x
+vd l __n
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fffi_ scalbnf, __x, __n
+language c
+sptr 1618
+vd f __x
+vd i __n
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_scalbnl.ipo/  1555614726  921   1016  100664  428       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frrl_ __scalblnl, __x, __n
+language c
+sptr 1938
+vd r __x
+vd l __n
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frri_ __scalbnl, __x, __n
+language c
+sptr 1928
+vd r __x
+vd i __n
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frrl_ scalblnl, __x, __n
+language c
+sptr 1935
+vd r __x
+vd l __n
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frri_ scalbnl, __x, __n
+language c
+sptr 1925
+vd r __x
+vd i __n
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_signbit.ipo/  1555614725  921   1016  100664  126       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fid_ __signbit, __value
+language c
+sptr 1381
+vd d __value
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_signbitf.ipo/ 1555614725  921   1016  100664  127       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fif_ __signbitf, __value
+language c
+sptr 1687
+vd f __value
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+s_signbitl.ipo/ 1555614726  921   1016  100664  127       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fir_ __signbitl, __value
+language c
+sptr 1997
+vd r __value
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+
+/237            1555614724  921   1016  100664  208       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __significand, __x
+language c
+sptr 1249
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ significand, __x
+language c
+sptr 1247
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+/256            1555614725  921   1016  100664  210       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __significandf, __x
+language c
+sptr 1555
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ significandf, __x
+language c
+sptr 1553
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+/276            1555614726  921   1016  100664  210       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __significandl, __x
+language c
+sptr 1861
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ significandl, __x
+language c
+sptr 1859
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_sin.ipo/      1555614724  921   1016  100664  192       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __sin, __x
+language c
+sptr 1115
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ sin, __x
+language c
+sptr 1113
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_sincos.ipo/   1555614725  921   1016  100664  144       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __sincos
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . sincos
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_sincosf.ipo/  1555614725  921   1016  100664  146       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __sincosf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . sincosf
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_sincosl.ipo/  1555614727  921   1016  100664  146       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __sincosl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . sincosl
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_sinf.ipo/     1555614725  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __sinf, __x
+language c
+sptr 1421
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ sinf, __x
+language c
+sptr 1419
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_sinl.ipo/     1555614726  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __sinl, __x
+language c
+sptr 1727
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ sinl, __x
+language c
+sptr 1725
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_tan.ipo/      1555614724  921   1016  100664  192       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __tan, __x
+language c
+sptr 1119
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ tan, __x
+language c
+sptr 1117
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_tanf.ipo/     1555614725  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __tanf, __x
+language c
+sptr 1425
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ tanf, __x
+language c
+sptr 1423
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_tanh.ipo/     1555614724  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __tanh, __x
+language c
+sptr 1131
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ tanh, __x
+language c
+sptr 1129
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_tanhf.ipo/    1555614725  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __tanhf, __x
+language c
+sptr 1437
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ tanhf, __x
+language c
+sptr 1435
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_tanhl.ipo/    1555614726  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __tanhl, __x
+language c
+sptr 1743
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ tanhl, __x
+language c
+sptr 1741
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_tanl.ipo/     1555614726  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __tanl, __x
+language c
+sptr 1731
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ tanl, __x
+language c
+sptr 1729
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_trunc.ipo/    1555614725  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __trunc, __x
+language c
+sptr 1337
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ trunc, __x
+language c
+sptr 1335
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_truncf.ipo/   1555614725  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __truncf, __x
+language c
+sptr 1643
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ truncf, __x
+language c
+sptr 1641
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+s_truncl.ipo/   1555614727  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __truncl, __x
+language c
+sptr 1951
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ truncl, __x
+language c
+sptr 1949
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_acos.ipo/     1555614724  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __acos, __x
+language c
+sptr 1093
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ acos, __x
+language c
+sptr 1091
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_acosf.ipo/    1555614725  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __acosf, __x
+language c
+sptr 1399
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ acosf, __x
+language c
+sptr 1397
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_acosh.ipo/    1555614724  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __acosh, __x
+language c
+sptr 1135
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ acosh, __x
+language c
+sptr 1133
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_acoshf.ipo/   1555614725  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __acoshf, __x
+language c
+sptr 1441
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ acoshf, __x
+language c
+sptr 1439
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_acoshl.ipo/   1555614726  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __acoshl, __x
+language c
+sptr 1747
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ acoshl, __x
+language c
+sptr 1745
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_acosl.ipo/    1555614726  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __acosl, __x
+language c
+sptr 1705
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ acosl, __x
+language c
+sptr 1703
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_asin.ipo/     1555614724  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __asin, __x
+language c
+sptr 1097
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ asin, __x
+language c
+sptr 1095
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_asinf.ipo/    1555614725  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __asinf, __x
+language c
+sptr 1403
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ asinf, __x
+language c
+sptr 1401
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_asinl.ipo/    1555614726  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __asinl, __x
+language c
+sptr 1709
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ asinl, __x
+language c
+sptr 1707
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_atan2.ipo/    1555614724  921   1016  100664  226       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fddd_ __atan2, __y, __x
+language c
+sptr 1106
+vd d __y
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fddd_ atan2, __y, __x
+language c
+sptr 1103
+vd d __y
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_atan2f.ipo/   1555614725  921   1016  100664  228       `
+F../src/libm.c
+V17 0 19.4
+FUNC Ffff_ __atan2f, __y, __x
+language c
+sptr 1412
+vd f __y
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Ffff_ atan2f, __y, __x
+language c
+sptr 1409
+vd f __y
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_atan2l.ipo/   1555614726  921   1016  100664  228       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frrr_ __atan2l, __y, __x
+language c
+sptr 1718
+vd r __y
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frrr_ atan2l, __y, __x
+language c
+sptr 1715
+vd r __y
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_atanh.ipo/    1555614724  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __atanh, __x
+language c
+sptr 1143
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ atanh, __x
+language c
+sptr 1141
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_atanhf.ipo/   1555614725  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __atanhf, __x
+language c
+sptr 1449
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ atanhf, __x
+language c
+sptr 1447
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_atanhl.ipo/   1555614726  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __atanhl, __x
+language c
+sptr 1755
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ atanhl, __x
+language c
+sptr 1753
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_cosh.ipo/     1555614724  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __cosh, __x
+language c
+sptr 1123
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ cosh, __x
+language c
+sptr 1121
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_coshf.ipo/    1555614725  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __coshf, __x
+language c
+sptr 1429
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ coshf, __x
+language c
+sptr 1427
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_coshl.ipo/    1555614726  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __coshl, __x
+language c
+sptr 1735
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ coshl, __x
+language c
+sptr 1733
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_drem.ipo/     1555614724  921   1016  100664  224       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fddd_ __drem, __x, __y
+language c
+sptr 1244
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fddd_ drem, __x, __y
+language c
+sptr 1241
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_dremf.ipo/    1555614725  921   1016  100664  226       `
+F../src/libm.c
+V17 0 19.4
+FUNC Ffff_ __dremf, __x, __y
+language c
+sptr 1550
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Ffff_ dremf, __x, __y
+language c
+sptr 1547
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_dreml.ipo/    1555614726  921   1016  100664  226       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frrr_ __dreml, __x, __y
+language c
+sptr 1856
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frrr_ dreml, __x, __y
+language c
+sptr 1853
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_exp.ipo/      1555614724  921   1016  100664  192       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __exp, __x
+language c
+sptr 1147
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ exp, __x
+language c
+sptr 1145
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_exp10.ipo/    1555614724  921   1016  100664  250       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __exp10
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . __pow10
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . exp10
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . pow10
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_exp10f.ipo/   1555614725  921   1016  100664  254       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __exp10f
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . __pow10f
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . exp10f
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . pow10f
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_exp10l.ipo/   1555614726  921   1016  100664  254       `
+F../src/libm.c
+V17 0 19.4
+FUNC . __exp10l
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . __pow10l
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . exp10l
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC . pow10l
+language c
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_exp2.ipo/     1555614724  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __exp2, __x
+language c
+sptr 1189
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ exp2, __x
+language c
+sptr 1187
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_exp2f.ipo/    1555614725  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __exp2f, __x
+language c
+sptr 1495
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ exp2f, __x
+language c
+sptr 1493
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_exp2l.ipo/    1555614726  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __exp2l, __x
+language c
+sptr 1801
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ exp2l, __x
+language c
+sptr 1799
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_expf.ipo/     1555614725  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __expf, __x
+language c
+sptr 1453
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ expf, __x
+language c
+sptr 1451
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_expl.ipo/     1555614726  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __expl, __x
+language c
+sptr 1759
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ expl, __x
+language c
+sptr 1757
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_fmod.ipo/     1555614724  921   1016  100664  224       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fddd_ __fmod, __x, __y
+language c
+sptr 1230
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fddd_ fmod, __x, __y
+language c
+sptr 1227
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_fmodf.ipo/    1555614725  921   1016  100664  226       `
+F../src/libm.c
+V17 0 19.4
+FUNC Ffff_ __fmodf, __x, __y
+language c
+sptr 1536
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Ffff_ fmodf, __x, __y
+language c
+sptr 1533
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_fmodl.ipo/    1555614726  921   1016  100664  226       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frrr_ __fmodl, __x, __y
+language c
+sptr 1842
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frrr_ fmodl, __x, __y
+language c
+sptr 1839
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_hypot.ipo/    1555614725  921   1016  100664  226       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fddd_ __hypot, __x, __y
+language c
+sptr 1208
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fddd_ hypot, __x, __y
+language c
+sptr 1205
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_hypotf.ipo/   1555614725  921   1016  100664  228       `
+F../src/libm.c
+V17 0 19.4
+FUNC Ffff_ __hypotf, __x, __y
+language c
+sptr 1514
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Ffff_ hypotf, __x, __y
+language c
+sptr 1511
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_hypotl.ipo/   1555614726  921   1016  100664  228       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frrr_ __hypotl, __x, __y
+language c
+sptr 1820
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frrr_ hypotl, __x, __y
+language c
+sptr 1817
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_j0.ipo/       1555614725  921   1016  100664  362       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __j0, %ARG0
+language c
+sptr 1266
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ __y0, %ARG0
+language c
+sptr 1272
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ j0, %ARG0
+language c
+sptr 1265
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ y0, %ARG0
+language c
+sptr 1271
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_j0f.ipo/      1555614725  921   1016  100664  366       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __j0f, %ARG0
+language c
+sptr 1572
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ __y0f, %ARG0
+language c
+sptr 1578
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ j0f, %ARG0
+language c
+sptr 1571
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ y0f, %ARG0
+language c
+sptr 1577
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_j0l.ipo/      1555614726  921   1016  100664  366       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __j0l, %ARG0
+language c
+sptr 1878
+vd r %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ __y0l, %ARG0
+language c
+sptr 1884
+vd r %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ j0l, %ARG0
+language c
+sptr 1877
+vd r %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ y0l, %ARG0
+language c
+sptr 1883
+vd r %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_j1.ipo/       1555614725  921   1016  100664  362       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __j1, %ARG0
+language c
+sptr 1268
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ __y1, %ARG0
+language c
+sptr 1274
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ j1, %ARG0
+language c
+sptr 1267
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ y1, %ARG0
+language c
+sptr 1273
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_j1f.ipo/      1555614725  921   1016  100664  366       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __j1f, %ARG0
+language c
+sptr 1574
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ __y1f, %ARG0
+language c
+sptr 1580
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ j1f, %ARG0
+language c
+sptr 1573
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ y1f, %ARG0
+language c
+sptr 1579
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_j1l.ipo/      1555614726  921   1016  100664  366       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __j1l, %ARG0
+language c
+sptr 1880
+vd r %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ __y1l, %ARG0
+language c
+sptr 1886
+vd r %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ j1l, %ARG0
+language c
+sptr 1879
+vd r %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ y1l, %ARG0
+language c
+sptr 1885
+vd r %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_jn.ipo/       1555614725  921   1016  100664  438       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdid_ __jn, %ARG0, %ARG1
+language c
+sptr 1270
+vd i %ARG0
+vd d %ARG1
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdid_ __yn, %ARG0, %ARG1
+language c
+sptr 1276
+vd i %ARG0
+vd d %ARG1
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdid_ jn, %ARG0, %ARG1
+language c
+sptr 1269
+vd i %ARG0
+vd d %ARG1
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdid_ yn, %ARG0, %ARG1
+language c
+sptr 1275
+vd i %ARG0
+vd d %ARG1
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_jnf.ipo/      1555614725  921   1016  100664  442       `
+F../src/libm.c
+V17 0 19.4
+FUNC Ffif_ __jnf, %ARG0, %ARG1
+language c
+sptr 1576
+vd i %ARG0
+vd f %ARG1
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Ffif_ __ynf, %ARG0, %ARG1
+language c
+sptr 1582
+vd i %ARG0
+vd f %ARG1
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Ffif_ jnf, %ARG0, %ARG1
+language c
+sptr 1575
+vd i %ARG0
+vd f %ARG1
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Ffif_ ynf, %ARG0, %ARG1
+language c
+sptr 1581
+vd i %ARG0
+vd f %ARG1
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_jnl.ipo/      1555614726  921   1016  100664  442       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frir_ __jnl, %ARG0, %ARG1
+language c
+sptr 1882
+vd i %ARG0
+vd r %ARG1
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frir_ __ynl, %ARG0, %ARG1
+language c
+sptr 1888
+vd i %ARG0
+vd r %ARG1
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frir_ jnl, %ARG0, %ARG1
+language c
+sptr 1881
+vd i %ARG0
+vd r %ARG1
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frir_ ynl, %ARG0, %ARG1
+language c
+sptr 1887
+vd i %ARG0
+vd r %ARG1
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_lgamma.ipo/   1555614725  921   1016  100664  376       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __gamma, %ARG0
+language c
+sptr 1285
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ __lgamma, %ARG0
+language c
+sptr 1282
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ gamma, %ARG0
+language c
+sptr 1284
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ lgamma, %ARG0
+language c
+sptr 1281
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_lgamma_r.ipo/ 1555614725  921   1016  100664  272       `
+F../src/libm.c
+V17 0 19.4
+FUNC FddPi_ __lgamma_r, %ARG0, __signgamp
+language c
+sptr 1288
+vd d %ARG0
+vd Pi __signgamp
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FddPi_ lgamma_r, %ARG0, __signgamp
+language c
+sptr 1286
+vd d %ARG0
+vd Pi __signgamp
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_lgammaf.ipo/  1555614725  921   1016  100664  380       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __gammaf, %ARG0
+language c
+sptr 1591
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ __lgammaf, %ARG0
+language c
+sptr 1588
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ gammaf, %ARG0
+language c
+sptr 1590
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ lgammaf, %ARG0
+language c
+sptr 1587
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_lgammaf_r.ipo/1555614725  921   1016  100664  274       `
+F../src/libm.c
+V17 0 19.4
+FUNC FffPi_ __lgammaf_r, %ARG0, __signgamp
+language c
+sptr 1594
+vd f %ARG0
+vd Pi __signgamp
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FffPi_ lgammaf_r, %ARG0, __signgamp
+language c
+sptr 1592
+vd f %ARG0
+vd Pi __signgamp
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_lgammal.ipo/  1555614726  921   1016  100664  380       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __gammal, %ARG0
+language c
+sptr 1898
+vd r %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ __lgammal, %ARG0
+language c
+sptr 1894
+vd r %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ gammal, %ARG0
+language c
+sptr 1897
+vd r %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ lgammal, %ARG0
+language c
+sptr 1893
+vd r %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_lgammal_r.ipo/1555614726  921   1016  100664  274       `
+F../src/libm.c
+V17 0 19.4
+FUNC FrrPi_ __lgammal_r, %ARG0, __signgamp
+language c
+sptr 1901
+vd r %ARG0
+vd Pi __signgamp
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC FrrPi_ lgammal_r, %ARG0, __signgamp
+language c
+sptr 1899
+vd r %ARG0
+vd Pi __signgamp
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_log.ipo/      1555614725  921   1016  100664  192       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __log, __x
+language c
+sptr 1163
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ log, __x
+language c
+sptr 1161
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_log10.ipo/    1555614725  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __log10, __x
+language c
+sptr 1167
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ log10, __x
+language c
+sptr 1165
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_log10f.ipo/   1555614725  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __log10f, __x
+language c
+sptr 1473
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ log10f, __x
+language c
+sptr 1471
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_log10l.ipo/   1555614726  921   1016  100664  198       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __log10l, __x
+language c
+sptr 1779
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ log10l, __x
+language c
+sptr 1777
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_logf.ipo/     1555614725  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __logf, __x
+language c
+sptr 1469
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ logf, __x
+language c
+sptr 1467
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_logl.ipo/     1555614726  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __logl, __x
+language c
+sptr 1775
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ logl, __x
+language c
+sptr 1773
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_pow.ipo/      1555614725  921   1016  100664  222       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fddd_ __pow, __x, __y
+language c
+sptr 1198
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fddd_ pow, __x, __y
+language c
+sptr 1195
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_powf.ipo/     1555614725  921   1016  100664  224       `
+F../src/libm.c
+V17 0 19.4
+FUNC Ffff_ __powf, __x, __y
+language c
+sptr 1504
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Ffff_ powf, __x, __y
+language c
+sptr 1501
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_powl.ipo/     1555614726  921   1016  100664  224       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frrr_ __powl, __x, __y
+language c
+sptr 1810
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frrr_ powl, __x, __y
+language c
+sptr 1807
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_remainder.ipo/1555614725  921   1016  100664  234       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fddd_ __remainder, __x, __y
+language c
+sptr 1309
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fddd_ remainder, __x, __y
+language c
+sptr 1306
+vd d __x
+vd d __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+/296            1555614725  921   1016  100664  236       `
+F../src/libm.c
+V17 0 19.4
+FUNC Ffff_ __remainderf, __x, __y
+language c
+sptr 1615
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Ffff_ remainderf, __x, __y
+language c
+sptr 1612
+vd f __x
+vd f __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+/314            1555614726  921   1016  100664  236       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frrr_ __remainderl, __x, __y
+language c
+sptr 1922
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frrr_ remainderl, __x, __y
+language c
+sptr 1919
+vd r __x
+vd r __y
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_scalb.ipo/    1555614725  921   1016  100664  226       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fddd_ __scalb, __x, __n
+language c
+sptr 1394
+vd d __x
+vd d __n
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fddd_ scalb, __x, __n
+language c
+sptr 1391
+vd d __x
+vd d __n
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_scalbf.ipo/   1555614725  921   1016  100664  228       `
+F../src/libm.c
+V17 0 19.4
+FUNC Ffff_ __scalbf, __x, __n
+language c
+sptr 1700
+vd f __x
+vd f __n
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Ffff_ scalbf, __x, __n
+language c
+sptr 1697
+vd f __x
+vd f __n
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_scalbl.ipo/   1555614726  921   1016  100664  228       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frrr_ __scalbl, __x, __n
+language c
+sptr 2010
+vd r __x
+vd r __n
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frrr_ scalbl, __x, __n
+language c
+sptr 2007
+vd r __x
+vd r __n
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_sinh.ipo/     1555614725  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __sinh, __x
+language c
+sptr 1127
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ sinh, __x
+language c
+sptr 1125
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_sinhf.ipo/    1555614725  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __sinhf, __x
+language c
+sptr 1433
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ sinhf, __x
+language c
+sptr 1431
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_sinhl.ipo/    1555614726  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __sinhl, __x
+language c
+sptr 1739
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ sinhl, __x
+language c
+sptr 1737
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_sqrt.ipo/     1555614725  921   1016  100664  194       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __sqrt, __x
+language c
+sptr 1203
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ sqrt, __x
+language c
+sptr 1201
+vd d __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_sqrtf.ipo/    1555614725  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __sqrtf, __x
+language c
+sptr 1509
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ sqrtf, __x
+language c
+sptr 1507
+vd f __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_sqrtl.ipo/    1555614726  921   1016  100664  196       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __sqrtl, __x
+language c
+sptr 1815
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ sqrtl, __x
+language c
+sptr 1813
+vd r __x
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_tgamma.ipo/   1555614725  921   1016  100664  206       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fdd_ __tgamma, %ARG0
+language c
+sptr 1283
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fdd_ tgamma, %ARG0
+language c
+sptr 1066
+vd d %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_tgammaf.ipo/  1555614725  921   1016  100664  208       `
+F../src/libm.c
+V17 0 19.4
+FUNC Fff_ __tgammaf, %ARG0
+language c
+sptr 1589
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Fff_ tgammaf, %ARG0
+language c
+sptr 1068
+vd f %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE
+w_tgammal.ipo/  1555614726  921   1016  100664  208       `
+F../src/libm.c
+V17 0 19.4
+FUNC Frr_ __tgammal, %ARG0
+language c
+sptr 1896
+vd r %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+FUNC Frr_ tgammal, %ARG0
+language c
+sptr 1895
+vd r %ARG0
+opt
+size 1
+pure
+libm
+ENDFUNC
+ENDFILE

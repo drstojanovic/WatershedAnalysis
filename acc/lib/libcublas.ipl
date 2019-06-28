@@ -1,0 +1,3473 @@
+!<arch>
+//                                              3736      `
+__pgi_dev_cublasDrotg.ipo/
+__pgi_dev_cublasDrotmg.ipo/
+__pgi_dev_cublasSrotg.ipo/
+__pgi_dev_cublasSrotmg.ipo/
+cublasCaxpy_v2.ipo/
+cublasCcopy_v2.ipo/
+cublasCdotc_v2.ipo/
+cublasCdotu_v2.ipo/
+cublasCgbmv_v2.ipo/
+cublasCgemm_v2.ipo/
+cublasCgemv_v2.ipo/
+cublasCgerc_v2.ipo/
+cublasCgeru_v2.ipo/
+cublasChbmv_v2.ipo/
+cublasChemm_v2.ipo/
+cublasChemv_v2.ipo/
+cublasCher2_v2.ipo/
+cublasCher2k.ipo/
+cublasCher2k_v2.ipo/
+cublasCher_v2.ipo/
+cublasCherk_v2.ipo/
+cublasChpmv_v2.ipo/
+cublasChpr2_v2.ipo/
+cublasChpr_v2.ipo/
+cublasCrot_v2.ipo/
+cublasCscal_v2.ipo/
+cublasCsscal.ipo/
+cublasCsscal_v2.ipo/
+cublasCswap_v2.ipo/
+cublasCsymm_v2.ipo/
+cublasCsyr2k.ipo/
+cublasCsyr2k_v2.ipo/
+cublasCsyrk_v2.ipo/
+cublasCtbmv_v2.ipo/
+cublasCtbsv_v2.ipo/
+cublasCtpmv_v2.ipo/
+cublasCtpsv_v2.ipo/
+cublasCtrmm_v2.ipo/
+cublasCtrmv_v2.ipo/
+cublasCtrsm_v2.ipo/
+cublasCtrsv_v2.ipo/
+cublasDasum_v2.ipo/
+cublasDaxpy_v2.ipo/
+cublasDcopy_v2.ipo/
+cublasDdot_v2.ipo/
+cublasDgbmv_v2.ipo/
+cublasDgemm_v2.ipo/
+cublasDgemv_v2.ipo/
+cublasDger_v2.ipo/
+cublasDnrm2_v2.ipo/
+cublasDrot_v2.ipo/
+cublasDrotg_v2.ipo/
+cublasDrotm_v2.ipo/
+cublasDrotmg.ipo/
+cublasDrotmg_v2.ipo/
+cublasDsbmv_v2.ipo/
+cublasDscal_v2.ipo/
+cublasDspmv_v2.ipo/
+cublasDspr2_v2.ipo/
+cublasDspr_v2.ipo/
+cublasDswap_v2.ipo/
+cublasDsymm_v2.ipo/
+cublasDsymv_v2.ipo/
+cublasDsyr2_v2.ipo/
+cublasDsyr2k.ipo/
+cublasDsyr2k_v2.ipo/
+cublasDsyr_v2.ipo/
+cublasDsyrk_v2.ipo/
+cublasDtbmv_v2.ipo/
+cublasDtbsv_v2.ipo/
+cublasDtpmv_v2.ipo/
+cublasDtpsv_v2.ipo/
+cublasDtrmm_v2.ipo/
+cublasDtrmv_v2.ipo/
+cublasDtrsm_v2.ipo/
+cublasDtrsv_v2.ipo/
+cublasDzasum.ipo/
+cublasDzasum_v2.ipo/
+cublasDznrm2.ipo/
+cublasDznrm2_v2.ipo/
+cublasGetError.ipo/
+cublasGetMatrix.ipo/
+cublasGetMatrixAsync.ipo/
+cublasGetVector.ipo/
+cublasGetVectorAsync.ipo/
+cublasIcamax.ipo/
+cublasIcamax_v2.ipo/
+cublasIcamin.ipo/
+cublasIcamin_v2.ipo/
+cublasIdamax.ipo/
+cublasIdamax_v2.ipo/
+cublasIdamin.ipo/
+cublasIdamin_v2.ipo/
+cublasIsamax.ipo/
+cublasIsamax_v2.ipo/
+cublasIsamin.ipo/
+cublasIsamin_v2.ipo/
+cublasIzamax.ipo/
+cublasIzamax_v2.ipo/
+cublasIzamin.ipo/
+cublasIzamin_v2.ipo/
+cublasSasum_v2.ipo/
+cublasSaxpy_v2.ipo/
+cublasScasum.ipo/
+cublasScasum_v2.ipo/
+cublasScnrm2.ipo/
+cublasScnrm2_v2.ipo/
+cublasScopy_v2.ipo/
+cublasSdot_v2.ipo/
+cublasSetKernelStream.ipo/
+cublasSetMatrix.ipo/
+cublasSetMatrixAsync.ipo/
+cublasSetPointerMode_v2.ipo/
+cublasSetVector.ipo/
+cublasSetVectorAsync.ipo/
+cublasSgbmv_v2.ipo/
+cublasSgemm_v2.ipo/
+cublasSgemv_v2.ipo/
+cublasSger_v2.ipo/
+cublasShutdown.ipo/
+cublasSnrm2_v2.ipo/
+cublasSrot_v2.ipo/
+cublasSrotg_v2.ipo/
+cublasSrotm_v2.ipo/
+cublasSrotmg.ipo/
+cublasSrotmg_v2.ipo/
+cublasSsbmv_v2.ipo/
+cublasSscal_v2.ipo/
+cublasSspmv_v2.ipo/
+cublasSspr2_v2.ipo/
+cublasSspr_v2.ipo/
+cublasSswap_v2.ipo/
+cublasSsymm_v2.ipo/
+cublasSsymv_v2.ipo/
+cublasSsyr2_v2.ipo/
+cublasSsyr2k.ipo/
+cublasSsyr2k_v2.ipo/
+cublasSsyr_v2.ipo/
+cublasSsyrk_v2.ipo/
+cublasStbmv_v2.ipo/
+cublasStbsv_v2.ipo/
+cublasStpmv_v2.ipo/
+cublasStpsv_v2.ipo/
+cublasStrmm_v2.ipo/
+cublasStrmv_v2.ipo/
+cublasStrsm_v2.ipo/
+cublasStrsv_v2.ipo/
+cublasZaxpy_v2.ipo/
+cublasZcopy_v2.ipo/
+cublasZdotc_v2.ipo/
+cublasZdotu_v2.ipo/
+cublasZdrot_v2.ipo/
+cublasZdscal.ipo/
+cublasZdscal_v2.ipo/
+cublasZgbmv_v2.ipo/
+cublasZgemm_v2.ipo/
+cublasZgemv_v2.ipo/
+cublasZgerc_v2.ipo/
+cublasZgeru_v2.ipo/
+cublasZhbmv_v2.ipo/
+cublasZhemm_v2.ipo/
+cublasZhemv_v2.ipo/
+cublasZher2_v2.ipo/
+cublasZher2k.ipo/
+cublasZher2k_v2.ipo/
+cublasZher_v2.ipo/
+cublasZherk_v2.ipo/
+cublasZhpmv_v2.ipo/
+cublasZhpr2_v2.ipo/
+cublasZhpr_v2.ipo/
+cublasZrot_v2.ipo/
+cublasZscal_v2.ipo/
+cublasZswap_v2.ipo/
+cublasZsymm_v2.ipo/
+cublasZsyr2k.ipo/
+cublasZsyr2k_v2.ipo/
+cublasZsyrk_v2.ipo/
+cublasZtbmv_v2.ipo/
+cublasZtbsv_v2.ipo/
+cublasZtpmv_v2.ipo/
+cublasZtpsv_v2.ipo/
+cublasZtrmm_v2.ipo/
+cublasZtrmv_v2.ipo/
+cublasZtrsm_v2.ipo/
+cublasZtrsv_v2.ipo/
+/0              1555614779  921   1016  100664  105       `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . __pgi_dev_cublasDrotg
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/27             1555614779  921   1016  100664  106       `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . __pgi_dev_cublasDrotmg
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/55             1555614779  921   1016  100664  105       `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . __pgi_dev_cublasSrotg
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/82             1555614779  921   1016  100664  106       `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . __pgi_dev_cublasSrotmg
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasAlloc.ipo/1555614778  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasAlloc
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasCaxpy.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCaxpy
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/110            1555614782  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCaxpy_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasCcopy.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCcopy
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/130            1555614782  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCcopy_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasCdotc.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCdotc
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/150            1555614782  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCdotc_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasCdotu.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCdotu
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/170            1555614782  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCdotu_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasCgbmv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCgbmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/190            1555614782  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCgbmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasCgemm.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCgemm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/210            1555614783  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCgemm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasCgemv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCgemv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/230            1555614782  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCgemv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasCgerc.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCgerc
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/250            1555614782  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCgerc_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasCgeru.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCgeru
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/270            1555614782  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCgeru_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasChbmv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasChbmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/290            1555614782  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasChbmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasChemm.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasChemm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/310            1555614783  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasChemm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasChemv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasChemv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/330            1555614782  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasChemv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasCher.ipo/ 1555614779  921   1016  100664  94        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCher
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasCher2.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCher2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/350            1555614782  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCher2_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/370            1555614779  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCher2k
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/388            1555614783  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCher2k_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/409            1555614782  921   1016  100664  97        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCher_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasCherk.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCherk
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/428            1555614783  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCherk_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasChpmv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasChpmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/448            1555614782  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasChpmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasChpr.ipo/ 1555614779  921   1016  100664  94        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasChpr
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasChpr2.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasChpr2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/468            1555614782  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasChpr2_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/488            1555614782  921   1016  100664  97        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasChpr_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasCrot.ipo/ 1555614779  921   1016  100664  94        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCrot
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/507            1555614782  921   1016  100664  97        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCrot_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasCscal.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCscal
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/526            1555614782  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCscal_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/546            1555614779  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCsscal
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/564            1555614782  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCsscal_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasCswap.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCswap
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/585            1555614782  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCswap_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasCsymm.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCsymm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/605            1555614783  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCsymm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/625            1555614779  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCsyr2k
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/643            1555614783  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCsyr2k_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasCsyrk.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCsyrk
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/664            1555614783  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCsyrk_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasCtbmv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCtbmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/684            1555614783  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCtbmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasCtbsv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCtbsv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/704            1555614783  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCtbsv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasCtpmv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCtpmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/724            1555614783  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCtpmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasCtpsv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCtpsv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/744            1555614783  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCtpsv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasCtrmm.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCtrmm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/764            1555614783  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCtrmm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasCtrmv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCtrmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/784            1555614783  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCtrmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasCtrsm.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCtrsm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/804            1555614783  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCtrsm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasCtrsv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCtrsv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/824            1555614783  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasCtrsv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDasum.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDasum
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/844            1555614783  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDasum_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDaxpy.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDaxpy
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/864            1555614784  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDaxpy_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDcopy.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDcopy
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/884            1555614784  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDcopy_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDdot.ipo/ 1555614779  921   1016  100664  94        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDdot
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/904            1555614784  921   1016  100664  97        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDdot_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasDgbmv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDgbmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/923            1555614784  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDgbmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDgemm.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDgemm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/943            1555614785  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDgemm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDgemv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDgemv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/963            1555614784  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDgemv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDger.ipo/ 1555614779  921   1016  100664  94        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDger
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/983            1555614784  921   1016  100664  97        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDger_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasDnrm2.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDnrm2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1002           1555614784  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDnrm2_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDrot.ipo/ 1555614779  921   1016  100664  94        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDrot
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1022           1555614784  921   1016  100664  97        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDrot_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasDrotg.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDrotg
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1041           1555614784  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDrotg_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDrotm.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDrotm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1061           1555614784  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDrotm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1081           1555614779  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDrotmg
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1099           1555614784  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDrotmg_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasDsbmv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDsbmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1120           1555614784  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDsbmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDscal.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDscal
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1140           1555614784  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDscal_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDspmv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDspmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1160           1555614784  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDspmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDspr.ipo/ 1555614779  921   1016  100664  94        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDspr
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDspr2.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDspr2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1180           1555614784  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDspr2_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1200           1555614784  921   1016  100664  97        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDspr_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasDswap.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDswap
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1219           1555614784  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDswap_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDsymm.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDsymm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1239           1555614785  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDsymm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDsymv.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDsymv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1259           1555614784  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDsymv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDsyr.ipo/ 1555614780  921   1016  100664  94        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDsyr
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDsyr2.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDsyr2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1279           1555614784  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDsyr2_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1299           1555614780  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDsyr2k
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1317           1555614785  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDsyr2k_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1338           1555614784  921   1016  100664  97        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDsyr_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasDsyrk.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDsyrk
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1357           1555614785  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDsyrk_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDtbmv.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDtbmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1377           1555614785  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDtbmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDtbsv.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDtbsv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1397           1555614785  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDtbsv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDtpmv.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDtpmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1417           1555614785  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDtpmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDtpsv.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDtpsv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1437           1555614785  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDtpsv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDtrmm.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDtrmm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1457           1555614785  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDtrmm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDtrmv.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDtrmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1477           1555614785  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDtrmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDtrsm.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDtrsm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1497           1555614785  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDtrsm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasDtrsv.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDtrsv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1517           1555614785  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDtrsv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1537           1555614780  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDzasum
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1555           1555614785  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDzasum_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1576           1555614780  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDznrm2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1594           1555614785  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasDznrm2_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasFree.ipo/ 1555614778  921   1016  100664  94        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasFree
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1615           1555614778  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasGetError
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1635           1555614778  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasGetMatrix
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1656           1555614779  921   1016  100664  104       `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasGetMatrixAsync
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1682           1555614778  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasGetVector
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1703           1555614779  921   1016  100664  104       `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasGetVectorAsync
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1729           1555614779  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasIcamax
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1747           1555614782  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasIcamax_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1768           1555614779  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasIcamin
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1786           1555614782  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasIcamin_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1807           1555614779  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasIdamax
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1825           1555614783  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasIdamax_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1846           1555614779  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasIdamin
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1864           1555614783  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasIdamin_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasInit.ipo/ 1555614778  921   1016  100664  94        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasInit
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1885           1555614779  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasIsamax
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1903           1555614780  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasIsamax_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1924           1555614779  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasIsamin
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1942           1555614780  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasIsamin_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/1963           1555614780  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasIzamax
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/1981           1555614785  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasIzamax_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2002           1555614780  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasIzamin
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/2020           1555614785  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasIzamin_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasSasum.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSasum
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2041           1555614780  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSasum_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasSaxpy.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSaxpy
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2061           1555614780  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSaxpy_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/2081           1555614779  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasScasum
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/2099           1555614782  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasScasum_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2120           1555614779  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasScnrm2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/2138           1555614782  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasScnrm2_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasScopy.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasScopy
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2159           1555614780  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasScopy_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasSdot.ipo/ 1555614779  921   1016  100664  94        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSdot
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/2179           1555614780  921   1016  100664  97        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSdot_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2198           1555614778  921   1016  100664  105       `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSetKernelStream
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2225           1555614778  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSetMatrix
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2246           1555614779  921   1016  100664  104       `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSetMatrixAsync
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/2272           1555614779  921   1016  100664  107       `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSetPointerMode_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2301           1555614778  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSetVector
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2322           1555614779  921   1016  100664  104       `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSetVectorAsync
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasSgbmv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSgbmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2348           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSgbmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasSgemm.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSgemm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2368           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSgemm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasSgemv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSgemv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2388           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSgemv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasSger.ipo/ 1555614779  921   1016  100664  94        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSger
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/2408           1555614781  921   1016  100664  97        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSger_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2427           1555614778  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasShutdown
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasSnrm2.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSnrm2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2447           1555614780  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSnrm2_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasSrot.ipo/ 1555614779  921   1016  100664  94        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSrot
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/2467           1555614780  921   1016  100664  97        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSrot_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasSrotg.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSrotg
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2486           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSrotg_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasSrotm.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSrotm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2506           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSrotm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/2526           1555614779  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSrotmg
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/2544           1555614781  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSrotmg_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasSsbmv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSsbmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2565           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSsbmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasSscal.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSscal
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2585           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSscal_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasSspmv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSspmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2605           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSspmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasSspr.ipo/ 1555614779  921   1016  100664  94        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSspr
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasSspr2.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSspr2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2625           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSspr2_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/2645           1555614781  921   1016  100664  97        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSspr_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasSswap.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSswap
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2664           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSswap_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasSsymm.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSsymm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2684           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSsymm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasSsymv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSsymv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2704           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSsymv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasSsyr.ipo/ 1555614779  921   1016  100664  94        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSsyr
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasSsyr2.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSsyr2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2724           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSsyr2_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/2744           1555614779  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSsyr2k
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/2762           1555614781  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSsyr2k_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2783           1555614781  921   1016  100664  97        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSsyr_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasSsyrk.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSsyrk
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2802           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasSsyrk_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasStbmv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasStbmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2822           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasStbmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasStbsv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasStbsv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2842           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasStbsv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasStpmv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasStpmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2862           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasStpmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasStpsv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasStpsv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2882           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasStpsv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasStrmm.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasStrmm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2902           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasStrmm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasStrmv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasStrmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2922           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasStrmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasStrsm.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasStrsm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2942           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasStrsm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasStrsv.ipo/1555614779  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasStrsv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2962           1555614781  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasStrsv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZaxpy.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZaxpy
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/2982           1555614785  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZaxpy_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZcopy.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZcopy
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3002           1555614785  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZcopy_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZdotc.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZdotc
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3022           1555614785  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZdotc_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZdotu.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZdotu
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3042           1555614785  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZdotu_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZdrot.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZdrot
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3062           1555614785  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZdrot_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/3082           1555614780  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZdscal
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/3100           1555614786  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZdscal_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasZgbmv.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZgbmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3121           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZgbmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZgemm.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZgemm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3141           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZgemm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZgemv.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZgemv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3161           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZgemv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZgerc.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZgerc
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3181           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZgerc_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZgeru.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZgeru
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3201           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZgeru_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZhbmv.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZhbmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3221           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZhbmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZhemm.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZhemm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3241           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZhemm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZhemv.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZhemv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3261           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZhemv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZher.ipo/ 1555614780  921   1016  100664  94        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZher
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZher2.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZher2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3281           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZher2_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/3301           1555614780  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZher2k
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/3319           1555614786  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZher2k_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3340           1555614786  921   1016  100664  97        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZher_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasZherk.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZherk
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3359           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZherk_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZhpmv.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZhpmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3379           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZhpmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZhpr.ipo/ 1555614780  921   1016  100664  94        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZhpr
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZhpr2.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZhpr2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3399           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZhpr2_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/3419           1555614786  921   1016  100664  97        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZhpr_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasZrot.ipo/ 1555614780  921   1016  100664  94        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZrot
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/3438           1555614785  921   1016  100664  97        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZrot_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasZscal.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZscal
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3457           1555614785  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZscal_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZswap.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZswap
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3477           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZswap_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZsymm.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZsymm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3497           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZsymm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/3517           1555614780  921   1016  100664  96        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZsyr2k
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+/3535           1555614786  921   1016  100664  99        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZsyr2k_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+cublasZsyrk.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZsyrk
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3556           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZsyrk_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZtbmv.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZtbmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3576           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZtbmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZtbsv.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZtbsv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3596           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZtbsv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZtpmv.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZtpmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3616           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZtpmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZtpsv.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZtpsv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3636           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZtpsv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZtrmm.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZtrmm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3656           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZtrmm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZtrmv.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZtrmv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3676           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZtrmv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZtrsm.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZtrsm
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3696           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZtrsm_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+cublasZtrsv.ipo/1555614780  921   1016  100664  95        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZtrsv
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
+
+/3716           1555614786  921   1016  100664  98        `
+F../src/libcublas.c
+V17 0 19.4
+FUNC . cublasZtrsv_v2
+language c
+opt
+size 1
+almost
+ENDFUNC
+ENDFILE
