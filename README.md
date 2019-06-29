@@ -3,7 +3,7 @@ Watershed analysis algorithm implementation in CUDA and OpenACC
 
 
 
-# Build docker file
+# Build Docker image
 #Ukoliko neko nije izbrisao image sa servera, može da se preskoči ovaj deo
 
 nvidia-docker build --tag=cudawatershed .
